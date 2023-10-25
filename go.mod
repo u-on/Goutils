@@ -1,4 +1,4 @@
-module Goutils
+module github.com/u-on/Goutils
 
 go 1.21
 
